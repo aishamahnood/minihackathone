@@ -1,0 +1,113 @@
+.Colorlib{
+    color: white;
+}
+.shopping{
+    padding-left: 600px;
+    justify-content: end;
+    display: flex;
+}
+.creative{
+    color: grey;
+}
+.grey{
+    height: 50px;
+    width: 100px;
+}
+.image1{
+    background-image: url(./hero_1.jpg.webp);
+    background-position: center;
+    background-size: cover;
+    background-position: fixed;
+    height:500px;
+    margin-top: 50px;
+}
+.build{
+    color: white;
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 80px;
+}
+.template{
+    color: white;
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+.web{
+    color: lightgreen;
+}
+.Works{
+    color: rgb(12, 11, 11);
+    padding-left: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+.lorem{
+    color: grey; 
+    padding-left: 40px;
+    text-align: center;
+}
+.neque{
+    color: grey; 
+    padding-left: 40px;
+    text-align: center;
+}
+.branding{
+    /* display: flex; */
+}
+.image2{
+    height: 40px;
+    width: 40px;
+}
+.image3{
+    height: 50px;
+    width: 50px;
+}
+.image4{
+    height: 50px;
+    width: 50px;
+}
+.card-title{
+    color: lightseagreen;
+    margin-top: 40px;
+    height: 50px;
+}
+/* #navbar li{
+    padding-top: 4px;
+}
+#navbar{
+    background-color:white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    /* padding: 30px; */
+.video{
+    background-color: aqua;
+    border-radius: 100px;
+    height: 50px;
+    width: 120px;
+    border: none;
+    margin-left:500px;
+    margin-top: 10px;
+}
+.service{
+    background-color: black;
+    height: 500px;
+    width: 1150px;
+    margin-left: 70px;
+}
+.about{
+    height: 450px;
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.images{
+    display: flex;
+    height: 400px;
+    width: 350px;
+    margin: 10px;
+}
+.imagegroup{
+    padding: 10px;
+}
